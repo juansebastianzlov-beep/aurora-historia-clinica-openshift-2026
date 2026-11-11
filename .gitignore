@@ -1,0 +1,5 @@
+# Nunca publicar credenciales reales ni archivos de entorno locales
+openshift/historia-clinica-openshift-local.yaml
+.env
+.env.*
+!.env.example

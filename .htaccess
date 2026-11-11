@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(LEEME\.md|historia_clinica\.sql)$">
+  Require all denied
+</FilesMatch>
